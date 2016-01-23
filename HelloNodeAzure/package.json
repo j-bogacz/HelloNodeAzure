@@ -1,0 +1,10 @@
+{
+  "name": "HelloNodeAzure",
+  "version": "0.0.0",
+  "description": "HelloNodeAzure",
+  "main": "server.js",
+  "author": {
+    "name": "Jakub",
+    "email": ""
+  }
+}
